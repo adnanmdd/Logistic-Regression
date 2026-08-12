@@ -1,4 +1,4 @@
-<h2>Customer Purchase Prediction Using Logistic Regression</h2>
+<h2>Customer Purchase Prediction</h2>
 
 <h3>Project Overview</h3>
 <p>

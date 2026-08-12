@@ -1,4 +1,4 @@
-<h2>Telecom Churn Prediction using Logistic Regression</h2>
+<h2>Telecom Churn Prediction</h2>
 
 <h3>Overview</h3>
 <p>
